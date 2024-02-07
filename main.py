@@ -18,7 +18,7 @@ import json
 import logging
 
 # Chargement model
-model_uri = "C:\\Users\\dtulomba\\Documents\\DOCUMENTS DIV\\API-1\\mlruns\\doc\\artifacts\\model"
+model_uri = "./mlruns/doc/artifacts/model"
 model = mlflow.sklearn.load_model(model_uri)
 # Local
 # model = joblib.load(r"C:\Users\Nathan\Python Synch\Formation Data Scientist\P7\API\ModelRapide.pkl")
