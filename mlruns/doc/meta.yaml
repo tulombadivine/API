@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nathan/Python%20Synch/Formation%20Data%20Scientist/mlruns/0/2d08e6ba80894297bf2d2770ab53dfb8/artifacts
+end_time: 1700174578277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d08e6ba80894297bf2d2770ab53dfb8
+run_name: XGlaunch_base
+run_uuid: 2d08e6ba80894297bf2d2770ab53dfb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700166923220
+status: 3
+tags: []
+user_id: Nathan
