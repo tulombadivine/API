@@ -21,7 +21,7 @@ import logging
 model_uri = "./mlruns/doc/artifacts/model"
 model = mlflow.sklearn.load_model(model_uri)
 # Local
-# model = joblib.load(r"C:\Users\Nathan\Python Synch\Formation Data Scientist\P7\API\ModelRapide.pkl")
+
 
 # Extraire le préprocesseur
 preprocessor = model.named_steps['preprocessor']
